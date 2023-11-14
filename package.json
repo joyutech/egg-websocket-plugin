@@ -1,7 +1,7 @@
 {
-  "name": "egg-websocket-plugin",
-  "version": "3.0.0-beta.0",
-  "description": "Egg standard WebSocket plugin",
+  "name": "@joyu/egg-websocket-plugin",
+  "version": "3.0.1",
+  "description": "Egg standard WebSocket plugin by joyu team",
   "egg": {
     "typescript": true
   },
@@ -20,7 +20,7 @@
     "egg": "^3.0.0"
   },
   "dependencies": {
-    "ws": "^7.2.1"
+    "ws": "^8.14.2"
   },
   "optionalDependencies": {
     "@types/ws": "^6.0.4",
@@ -59,12 +59,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flarestart/egg-websocket-plugin.git"
+    "url": "git+https://github.com/joyutech/egg-websocket-plugin.git"
   },
   "bugs": {
-    "url": "https://github.com/flarestart/egg-websocket-plugin/issues"
+    "url": "https://github.com/joyutech/egg-websocket-plugin/issues"
   },
-  "homepage": "https://github.com/flarestart/egg-websocket-plugin#readme",
-  "author": "flarestart",
+  "homepage": "https://github.com/joyutech/egg-websocket-plugin#readme",
+  "author": "joyu team",
   "license": "MIT"
 }
